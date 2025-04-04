@@ -1,5 +1,4 @@
-# .github
-## MDC Introduction
+# MDC Introduction
 
 ### Mision: 
 
